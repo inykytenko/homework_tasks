@@ -117,9 +117,18 @@ class Factory:
 
 # class Grade:
 #     def create(self, choose_input: int)-> Education:
+
 #         gpa_school_check = 7
 #         gpa_college_check = 75
 #         zno_check = 95
+
+        user_action_gpa = input("Enter the type of score do you have. (1) school gpa, (2) college gpa, (3) zno, (4) exit: ")
+        user_action = user_action.strip()
+        
+        if
+
+
+
 
 
 
